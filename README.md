@@ -4704,7 +4704,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
 - [DunkAPI](https://dunkapi.com) `https://mcp.dunkapi.com/mcp`
   [![DunkAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi)
-  🔓 🔑 - NBA, WNBA and college basketball data: play-by-play, shot locations, box scores, odds.
+  🔐 - NBA, WNBA and college basketball data: play-by-play, shot locations, box scores, odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
