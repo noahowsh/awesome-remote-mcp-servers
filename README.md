@@ -2667,7 +2667,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
 - [FastballAPI](https://fastballapi.com) `https://mcp.fastballapi.com/mcp`
   [![FastballAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/fastballapi)
-  🔓 🔑 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
+  🔐 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
