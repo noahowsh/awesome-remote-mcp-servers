@@ -4683,7 +4683,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - MotoGP, Moto2 and Moto3 standings, race results, calendar and session times, rider profiles, live timing and news.
 - [PuckAPI](https://puckapi.com) `https://mcp.puckapi.com/mcp`
   [![PuckAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/puckapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/puckapi)
-  🔐 - NHL play-by-play since 2010-11 with rink coordinates, xG and GSAX, plus historical odds from 60+ sportsbooks.
+  🔓 - NHL play-by-play since 2010-11 with rink coordinates, xG and GSAX, plus historical odds from 60+ sportsbooks.
 - [RallyIQ](https://bigballi.com/RallyIQ/connect) `https://bigballi.com/RallyIQ/mcp`
   [![RallyIQ MCP connector](https://glama.ai/mcp/connectors/com.bigballi/rallyiq/badges/score.svg)](https://glama.ai/mcp/connectors/com.bigballi/rallyiq)
   🔓 - Tennis game plans, player scouting and match breakdowns from shot-by-shot charted ATP and WTA matches.
