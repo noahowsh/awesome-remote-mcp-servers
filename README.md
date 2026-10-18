@@ -4704,7 +4704,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - MLB since 2015 plus college: pitches, plate appearances, box scores, odds by book.
 - [BirdieAPI](https://birdieapi.com) `https://mcp.birdieapi.com/mcp`
   [![BirdieAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/birdieapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/birdieapi)
-  🔐 - PGA Tour data from 2001: leaderboards, holes, courses, ratings, par-3/4/5 splits, major winner odds.
+  🔓 - PGA Tour data from 2001: leaderboards, holes, courses, ratings, par-3/4/5 splits, major winner odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
