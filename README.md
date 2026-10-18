@@ -3626,7 +3626,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Run recreational racket-sport tournaments: draws, schedules, live standings and dropouts.
 - [StrikerAPI](https://strikerapi.com) `https://mcp.strikerapi.com/mcp`
   [![StrikerAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/strikerapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/strikerapi)
-  🔐 - Premier League, MLS and European football: lineups, shot maps, xG, tables and odds.
+  🔓 - Premier League, MLS and European football: lineups, shot maps, xG, tables and odds.
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
